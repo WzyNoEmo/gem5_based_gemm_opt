@@ -1,0 +1,26 @@
+cpu type : x86
+L1d size: 4kB, L2 size: 16kB
+Matrix multiplication took 0.506695 seconds
+L2 Cache Overall Miss Rate: 0.935581
+D-Cache Overall Miss Rate: 0.055031
+CPU CPI: 5.815975
+
+L1d size: 128kB, L2 size: 256kB
+Matrix multiplication took 0.295467 seconds
+L2 Cache Overall Miss Rate: 0.110253
+D-Cache Overall Miss Rate: 0.000855
+CPU CPI: 3.434031
+
+cpu type : o3
+L1d size: 4kB, L2 size: 16kB
+Matrix multiplication took 0.262001 seconds
+L2 Cache Overall Miss Rate: 0.959650
+D-Cache Overall Miss Rate: 0.065899
+CPU CPI: 2.970501
+
+L1d size: 128kB, L2 size: 256kB
+Matrix multiplication took 0.057787 seconds
+L2 Cache Overall Miss Rate: 0.119539
+D-Cache Overall Miss Rate: 0.001019
+CPU CPI: 0.667700
+

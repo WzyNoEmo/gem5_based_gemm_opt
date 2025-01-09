@@ -1,0 +1,20 @@
+X86 TEXT
+Matrix multiplication took 0.506695 seconds
+L2 Cache Overall Miss Rate: 0.935581
+D-Cache Overall Miss Rate: 0.055031
+CPU CPI: 5.815975
+simInsts: 88682623
+simOps: 109910810
+total dram read: 2120825
+total dram read: 3275
+
+RISCV TEXT
+Matrix multiplication took 0.506105 seconds
+L2 Cache Overall Miss Rate: 0.914345
+D-Cache Overall Miss Rate: 0.056489
+CPU CPI: 5.526771
+simInsts: 93321418
+simOps: 93354195
+total dram read: 2120491
+total dram read: 3189
+

@@ -1,0 +1,15 @@
+replacement policy: random
+Matrix multiplication took 0.515646 seconds
+L2 Cache Overall Miss Rate: 0.823562
+D-Cache Overall Miss Rate: 0.061876
+
+replacement policy: weightedrandom
+Matrix multiplication took 0.523583 seconds
+L2 Cache Overall Miss Rate: 0.748128
+D-Cache Overall Miss Rate: 0.068558
+
+replacement policy: weightedrandom  weight:10x
+Matrix multiplication took 0.528192 seconds
+L2 Cache Overall Miss Rate: 0.721079
+D-Cache Overall Miss Rate: 0.071743
+

@@ -1,0 +1,50 @@
+replacement policy: lru
+Matrix multiplication took 0.506695 seconds
+L2 Cache Overall Miss Rate: 0.935581
+D-Cache Overall Miss Rate: 0.055031
+
+replacement policy: mru
+Matrix multiplication took 0.553967 seconds
+L2 Cache Overall Miss Rate: 0.646769
+D-Cache Overall Miss Rate: 0.085088
+
+replacement policy: plru
+Matrix multiplication took 0.506663 seconds
+L2 Cache Overall Miss Rate: 0.935385
+D-Cache Overall Miss Rate: 0.055031
+
+replacement policy: lfu
+Matrix multiplication took 0.540417 seconds
+L2 Cache Overall Miss Rate: 0.770182
+D-Cache Overall Miss Rate: 0.074118
+
+replacement policy: bip
+Matrix multiplication took 0.480627 seconds
+L2 Cache Overall Miss Rate: 0.812913
+D-Cache Overall Miss Rate: 0.053039
+
+replacement policy: lip
+Matrix multiplication took 0.475470 seconds
+L2 Cache Overall Miss Rate: 0.778739
+D-Cache Overall Miss Rate: 0.053621
+
+replacement policy: random
+Matrix multiplication took 0.515646 seconds
+L2 Cache Overall Miss Rate: 0.823562
+D-Cache Overall Miss Rate: 0.061876
+
+replacement policy: fifo
+Matrix multiplication took 0.517659 seconds
+L2 Cache Overall Miss Rate: 0.833527
+D-Cache Overall Miss Rate: 0.061788
+
+replacement policy: nru
+Matrix multiplication took 0.505182 seconds
+L2 Cache Overall Miss Rate: 0.956191
+D-Cache Overall Miss Rate: 0.053848
+
+replacement policy: rrip
+Matrix multiplication took 0.504813 seconds
+L2 Cache Overall Miss Rate: 0.960413
+D-Cache Overall Miss Rate: 0.053611
+

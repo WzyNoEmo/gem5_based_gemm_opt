@@ -1,0 +1,45 @@
+L1d size: 4kB, L2 size: 16kB
+Matrix multiplication took 0.506695 seconds
+L2 Cache Overall Miss Rate: 0.935581
+D-Cache Overall Miss Rate: 0.055031
+
+L1d size: 4kB, L2 size: 32kB
+Matrix multiplication took 0.506665 seconds
+L2 Cache Overall Miss Rate: 0.935347
+D-Cache Overall Miss Rate: 0.055031
+
+L1d size: 4kB, L2 size: 64kB
+Matrix multiplication took 0.363563 seconds
+L2 Cache Overall Miss Rate: 0.078919
+D-Cache Overall Miss Rate: 0.055031
+
+L1d size: 4kB, L2 size: 128kB
+Matrix multiplication took 0.349067 seconds
+L2 Cache Overall Miss Rate: 0.002125
+D-Cache Overall Miss Rate: 0.055031
+
+L1d size: 8kB, L2 size: 128kB
+Matrix multiplication took 0.347262 seconds
+L2 Cache Overall Miss Rate: 0.002198
+D-Cache Overall Miss Rate: 0.053202
+
+L1d size: 16kB, L2 size: 128kB
+Matrix multiplication took 0.346313 seconds
+L2 Cache Overall Miss Rate: 0.002241
+D-Cache Overall Miss Rate: 0.052235
+
+L1d size: 32kB, L2 size: 128kB
+Matrix multiplication took 0.345933 seconds
+L2 Cache Overall Miss Rate: 0.002257
+D-Cache Overall Miss Rate: 0.051852
+
+L1d size: 64kB, L2 size: 128kB
+Matrix multiplication took 0.296492 seconds
+L2 Cache Overall Miss Rate: 0.059292
+D-Cache Overall Miss Rate: 0.001853
+
+L1d size: 128kB, L2 size: 256kB
+Matrix multiplication took 0.295467 seconds
+L2 Cache Overall Miss Rate: 0.110253
+D-Cache Overall Miss Rate: 0.000855
+
